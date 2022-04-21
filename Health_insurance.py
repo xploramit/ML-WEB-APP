@@ -12,7 +12,7 @@ import joblib
 def main():
     html_temp = """
     <div style="background-color:lightblue;padding:16px">
-    <h2 style="color:black";text-align:center> Health Insurance Cost Predictor App</h2>
+    <h2 style="color:black";text-align:center> Health Insurance Cost Predictor App by Amit Kumar</h2>
     </div>
     
     """
